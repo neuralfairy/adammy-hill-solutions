@@ -23,6 +23,9 @@ export const metadata: Metadata = {
   title: "Adammyhill Solutions - Messaging Strategy SaaS",
   description:
     "Drive conversions with precision messaging. We build messaging strategies that turn interest into revenue.",
+  icons: {
+    icon: "/favicon.png",
+  },
   keywords: "messaging optimization, conversion strategy, brand communication, B2B sales tools",
   authors: [{ name: "Adammyhill Solutions" }],
   openGraph: {
